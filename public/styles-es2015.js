@@ -414,9 +414,9 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\I2844\Documents\phantom\frontend\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
-__webpack_require__(/*! C:\Users\I2844\Documents\phantom\frontend\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! C:\Users\I2844\Documents\phantom\frontend\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! C:\Users\I2844\Documents\ranji-project\frontend\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
+__webpack_require__(/*! C:\Users\I2844\Documents\ranji-project\frontend\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\I2844\Documents\ranji-project\frontend\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
 
 
 /***/ })
